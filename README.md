@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Conftest
 
 [![Go Report Card](https://goreportcard.com/badge/open-policy-agent/opa)](https://goreportcard.com/report/open-policy-agent/conftest) [![Netlify](https://api.netlify.com/api/v1/badges/2d928746-3380-4123-b0eb-1fd74ba390db/deploy-status)](https://app.netlify.com/sites/vibrant-villani-65041c/deploys)
@@ -50,3 +51,6 @@ more details about the features.
 
 For discussions and questions join us on the [Open Policy Agent Slack](https://slack.openpolicyagent.org/)
 in the `#opa-conftest` channel.
+=======
+# flask-api
+>>>>>>> 1fc2719fb09c00b0322f27bc8d8447ade2425d4b
